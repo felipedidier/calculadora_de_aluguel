@@ -11,7 +11,7 @@ Esse repositório é dividido em 04 etapas:
 ## Coleta de dados
 
 Essa etapa consiste na atividade de webscraping no site Viva Real para coleta dos dados dos apartamentos presentes na cidade de São Paulo.
-Para possibilitar maior agilidade nas próximas etapas, essa etapa finaliza com a criação de arquivo csv com os dados coletados.
+Para possibilitar maior agilidade nas próximas etapas, essa etapa finaliza com a criação de arquivo csv com os dados coletados ('viva_real_selenium.csv').
 
 ## Tratamento de dados
 
